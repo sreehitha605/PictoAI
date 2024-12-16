@@ -20,6 +20,7 @@ import credit_star from './credit_star.svg'
 import profile_icon from './profile_icon.png'
 
 import logo2 from './logo2.svg'
+export const url = "https://pictoai-backend.onrender.com"
 export const assets = {
     logo,
     logo2,
