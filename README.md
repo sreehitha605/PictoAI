@@ -1,11 +1,13 @@
 # Automated Image Generation from Text
 
+
 ## Overview
+
 The **Automated Image Generation from Text** is a web application that enables users 
 to generate AI-powered images from textual prompts. The app is designed with user-friendly 
-features, including authentication, customer reviews, and a seamless payment system.
+features, including user authentication, customer reviews, and a seamless payment system.
 
----
+
 
 ## Features
 
