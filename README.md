@@ -28,7 +28,7 @@ features, including user authentication, customer reviews, and a seamless paymen
 5. **Payment Integration**  
    - A secure payment page for purchasing subscription plans or one-time credits.
 
----
+
 
 ## Technologies Used:
 
@@ -45,4 +45,4 @@ features, including user authentication, customer reviews, and a seamless paymen
 
 ### Additional Tools
 - **AI API Integration**: To generate images based on user prompts.
-- 
+  
